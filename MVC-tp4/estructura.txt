@@ -1,0 +1,19 @@
+/project-root
+|-- /models
+|   |-- superheroe.mjs
+|
+|-- /controllers
+|   |-- superheroesController.mjs
+|
+|-- /services
+|   |-- superheroesService.mjs
+|
+|-- /repository
+|   |-- superheroesRepository.mjs
+|   |-- superheroesDataSource.mjs
+|
+|-- /views
+|   |-- responseView.mjs
+|
+|-- server.mjs
+|-- superheroes.txt
